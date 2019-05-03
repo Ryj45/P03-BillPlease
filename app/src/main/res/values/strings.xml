@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="billamount">Bill Amount</string>
+    <string name="amount">Enter total amount</string>
+    <string name="pax">Pax</string>
+    <string name="peopleno">Enter number of people</string>
+    <string name="gstTextView">GST (7%)</string>
+    <string name="without">Without</string>
+    <string name="with">With</string>
+    <string name="service">Service Charge</string>
+    <string name="calculate">Calculate</string>
+    <string name="discount">Discount</string>
+    <string name="discInput" >Enter discount</string>
+    <string name="pay" >0.00</string>
+</resources>
